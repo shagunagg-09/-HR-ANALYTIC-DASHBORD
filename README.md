@@ -1,4 +1,4 @@
-# -HR-ANALYTIC-DASHBORD
+# -HR-ANALYTIC-DASHBOARD
 # ✨ HR Analytic Dashboard
 
 Welcome to the **HR Analytic Dashboard** – a dynamic, interactive visualization platform designed for HR professionals and business leaders who want to turn workforce data into actionable insights.  
